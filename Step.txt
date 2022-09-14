@@ -1,0 +1,8 @@
+1) Create Repository on Git-Hub
+2) Install NodeJS on your computer
+3) Create Node project by running the command "npm init"
+3) Install JESt package  for testing by running command "npm install -D jest"
+4) replace the output of command test by "jest" in the in the "package.json"
+    ex: test : "jest"
+5) Create somme function and some test, then run the test using command "npm test"
+6)
