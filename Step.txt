@@ -5,4 +5,6 @@
 4) replace the output of command test by "jest" in the in the "package.json"
     ex: test : "jest"
 5) Create somme function and some test, then run the test using command "npm test"
-6)
+6) Install husky with version 4.3.8
+7) Install package pre-commit using command "npm i -D pre-commit"
+8) Using commit "git commit -a" htake file in a staging area and add it to the commit
